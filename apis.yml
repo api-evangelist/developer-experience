@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - API Design
+  - API Documentation
   - Developer Experience
   - Developer Portals
-  - API Documentation
-  - API Design
   - Platform Engineering
 url: >-
   https://raw.githubusercontent.com/api-evangelist/developer-experience/refs/heads/main/apis.yml
