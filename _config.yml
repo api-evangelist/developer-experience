@@ -1,0 +1,19 @@
+title: Developer Experience
+description: This is the index of developer experience service and tooling repos being
+  tracked by the API Evangelist network, covering developer portals, API documentation
+  platforms, API design and authoring tools, GitOps for APIs, IDE extensions, and
+  internal developer platforms.
+url: https://developer-experience.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

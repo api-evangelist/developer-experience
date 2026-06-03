@@ -1,0 +1,115 @@
+meta:
+  name: Developer Experience
+  description: This is the index of developer experience service and tooling repos
+    being tracked by the API Evangelist network, covering developer portals, API documentation
+    platforms, API design and authoring tools, GitOps for APIs, IDE extensions, and
+    internal developer platforms.
+  tags:
+  - API Design
+  - API Documentation
+  - Developer Experience
+  - Developer Portals
+  - Platform Engineering
+  portal: null
+  github: null
+  repo: developer-experience
+services_tools:
+- name: APIMatic
+  repo: https://github.com/api-evangelist/apimatic
+  apisio: https://providers.apis.io/providers/apimatic/
+- name: Backstage
+  repo: https://github.com/api-evangelist/backstage
+  apisio: https://providers.apis.io/providers/backstage/
+- name: Bump.sh
+  repo: https://github.com/api-evangelist/bump-sh
+  apisio: https://providers.apis.io/providers/bump-sh/
+- name: Cortex
+  repo: https://github.com/api-evangelist/cortex
+  apisio: https://providers.apis.io/providers/cortex/
+- name: Crossplane
+  repo: https://github.com/api-evangelist/crossplane
+  apisio: https://providers.apis.io/providers/crossplane/
+- name: Cycloid
+  repo: https://github.com/api-evangelist/cycloid
+  apisio: https://providers.apis.io/providers/cycloid/
+- name: DeveloperHub
+  repo: https://github.com/api-evangelist/developerhub
+  apisio: https://providers.apis.io/providers/developerhub/
+- name: Docusaurus
+  repo: https://github.com/api-evangelist/docusaurus
+  apisio: https://providers.apis.io/providers/docusaurus/
+- name: Fern
+  repo: https://github.com/api-evangelist/fern
+  apisio: https://providers.apis.io/providers/fern/
+- name: GitBook
+  repo: https://github.com/api-evangelist/gitbook
+  apisio: https://providers.apis.io/providers/gitbook/
+- name: Humanitec
+  repo: https://github.com/api-evangelist/humanitec
+  apisio: https://providers.apis.io/providers/humanitec/
+- name: Kratix
+  repo: https://github.com/api-evangelist/kratix
+  apisio: https://providers.apis.io/providers/kratix/
+- name: Massdriver
+  repo: https://github.com/api-evangelist/massdriver
+  apisio: https://providers.apis.io/providers/massdriver/
+- name: Mintlify
+  repo: https://github.com/api-evangelist/mintlify
+  apisio: https://providers.apis.io/providers/mintlify/
+- name: Northflank
+  repo: https://github.com/api-evangelist/northflank
+  apisio: https://providers.apis.io/providers/northflank/
+- name: OpsLevel
+  repo: https://github.com/api-evangelist/opslevel
+  apisio: https://providers.apis.io/providers/opslevel/
+- name: Optic
+  repo: https://github.com/api-evangelist/optic
+  apisio: https://providers.apis.io/providers/optic/
+- name: Portal
+  repo: https://github.com/api-evangelist/portal
+  apisio: https://providers.apis.io/providers/portal/
+- name: Postman
+  repo: https://github.com/api-evangelist/postman
+  apisio: https://providers.apis.io/providers/postman/
+- name: Qovery
+  repo: https://github.com/api-evangelist/qovery
+  apisio: https://providers.apis.io/providers/qovery/
+- name: ReadMe Metrics
+  repo: https://github.com/api-evangelist/readme-metrics
+  apisio: https://providers.apis.io/providers/readme-metrics/
+- name: Redocly
+  repo: https://github.com/api-evangelist/redocly
+  apisio: https://providers.apis.io/providers/redocly/
+- name: Rely.io
+  repo: https://github.com/api-evangelist/rely
+  apisio: https://providers.apis.io/providers/rely/
+- name: SmartBear
+  repo: https://github.com/api-evangelist/smartbear
+  apisio: https://providers.apis.io/providers/smartbear/
+- name: Smithy
+  repo: https://github.com/api-evangelist/smithy
+  apisio: https://providers.apis.io/providers/smithy/
+- name: Speakeasy
+  repo: https://github.com/api-evangelist/speakeasy
+  apisio: https://providers.apis.io/providers/speakeasy/
+- name: Spectral
+  repo: https://github.com/api-evangelist/spectral
+  apisio: https://providers.apis.io/providers/spectral/
+- name: Stoplight
+  repo: https://github.com/api-evangelist/stoplight
+  apisio: https://providers.apis.io/providers/stoplight/
+- name: Swagger
+  repo: https://github.com/api-evangelist/swagger
+  apisio: https://providers.apis.io/providers/swagger/
+- name: SwaggerHub
+  repo: https://github.com/api-evangelist/swaggerhub
+  apisio: https://providers.apis.io/providers/swaggerhub/
+- name: TypeSpec
+  repo: https://github.com/api-evangelist/typespec
+  apisio: https://providers.apis.io/providers/typespec/
+- name: Upbound
+  repo: https://github.com/api-evangelist/upbound
+  apisio: https://providers.apis.io/providers/upbound/
+features: []
+use_cases: []
+integrations: []
