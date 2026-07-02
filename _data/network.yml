@@ -1,0 +1,31 @@
+related:
+- name: Documentation
+  url: https://documentation.apievangelist.com
+  icon: https://documentation.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for producing API and developer
+    documentation. This collection covers hosted documentation platforms, open source…
+- name: Portal
+  url: https://portal.apievangelist.com
+  icon: https://portal.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API developer portals,
+    API catalogs, API marketplaces, and developer experience platforms. This collection…
+- name: Design
+  url: https://design.apievangelist.com
+  icon: https://design.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API design, specification
+    editing, linting, and governance. This collection covers visual API designers,…
+- name: Management
+  url: https://management.apievangelist.com
+  icon: https://management.apievangelist.com/icon.png
+  description: An index and topic collection covering full-stack API management platforms — solutions
+    that combine an API gateway, developer portal, analytics, monetization, governance, and…
+- name: IDE
+  url: https://ide.apievangelist.com
+  icon: https://ide.apievangelist.com/icon.png
+  description: An index and topic collection covering integrated development environments (IDEs), code
+    editors, and cloud workspaces with APIs. This topic captures the editors, IDEs, and…
+- name: API Clients
+  url: https://api-clients.apievangelist.com
+  icon: https://api-clients.apievangelist.com/icon.png
+  description: An index and topic collection covering API clients, the developer tools used to inspect,
+    debug, exercise, and document APIs interactively. API clients include desktop and web…
