@@ -1,5 +1,6 @@
 aid: developer-experience
 name: Developer Experience
+kind: topic
 description: >-
   This is the index of developer experience service and tooling repos being
   tracked by the API Evangelist network, covering developer portals, API
