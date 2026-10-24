@@ -1,8 +1,0 @@
----
-title: Designing log-navigation tools in the Buildkite MCP server
-link: https://buildkite.com/resources/blog/designing-log-navigation-tools-in-the-buildkite-mcp-server/
-published: '2025-12-01'
-provider: buildkite-com
-repo: https://github.com/api-evangelist/buildkite-com
-domain: buildkite.com
----
