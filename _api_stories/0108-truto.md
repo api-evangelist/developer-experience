@@ -1,8 +1,8 @@
 ---
-title: 'Best MCP Server Platform for AI Agents: A Scenario-Based Buyer''s Decision
+title: 'B2B Unified API Platforms for Native Integrations: The 2026 Vendor Comparison
   Matrix'
-link: https://truto.one/blog/best-mcp-server-platform-for-ai-agents-a-scenario-based-buyers-decision-matrix/
-published: '2026-08-18'
+link: https://truto.one/blog/b2b-unified-api-platforms-for-native-integrations-the-2026-vendor-comparison-matrix/
+published: '2026-08-23'
 provider: truto
 repo: https://github.com/api-evangelist/truto
 domain: truto.one

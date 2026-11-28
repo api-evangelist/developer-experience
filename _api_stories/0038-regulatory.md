@@ -1,7 +1,7 @@
 ---
-title: 2026 FINRA API Platform Availability During Final Renewals Processing
-link: https://developer.finra.org/news/2026-finra-api-platform-availability-during-final-renewals-processing
-published: '2026-10-22'
+title: API Platform October 29, 2026 Release Notes
+link: https://developer.finra.org/release-notes/api-platform-october-29-2026-release-notes
+published: '2026-10-29'
 provider: regulatory
 repo: https://github.com/api-evangelist/regulatory
 domain: developer.finra.org
